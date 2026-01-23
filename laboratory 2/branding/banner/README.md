@@ -1,4 +1,6 @@
-<p align="center">
-  <img src="dash-banner.png" alt="DASH Banner" width="100%">
-</p>
+## DASH Banner
 
+![DASH Banner](DASH%20banner.png)
+
+**Purpose:**  
+Official branding banner used for GitHub profile and project documentation.
