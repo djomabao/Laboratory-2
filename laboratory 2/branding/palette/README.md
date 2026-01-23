@@ -1,6 +1,7 @@
 ## DASH Color Palette
 
-![DASH Color Palette](DASH Color Palette and Typography.png)
+![DASH Color Palette](DASH%20Color%20Palette%20and%20Typography.png)
+
 
 The DASH color palette is designed to convey clarity, focus, and confidence while maintaining high contrast and readability.
 
