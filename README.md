@@ -29,7 +29,7 @@ DASH is driven by the mindset of continuous progress — pushing forward without
 
 The DASH Brand Kit is a cohesive visual identity system built around performance, resilience, and momentum. Inspired by the discipline and mental strength required in elite sport, DASH represents focus, consistency, and forward motion across all platforms.
 
--
+
 
 ## 🎨 Visual Identity System
 
