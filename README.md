@@ -89,4 +89,11 @@ A branded social media graphic designed to reflect the DASH identity, focusing o
 ### 🖼️ Poster Design
 A one-page poster applying DASH branding principles such as hierarchy, contrast, and alignment to communicate information clearly.
 
-🔗 [View Poster Design](../laboratory%203/TIME%20MANAGEMENT.pdf)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/djomabao/Elective-Laboratories/main/laboratory%203/Social%20Media%20Branding%20Graphics/promo.png" 
+    alt="promo" 
+    width=600
+  />
+</p>
+
