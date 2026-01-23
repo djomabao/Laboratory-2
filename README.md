@@ -60,7 +60,7 @@ The DASH banner establishes strong brand presence through balanced composition a
 
 ---
 
-## 🎨 Branding Assets
+# 🎨 Branding Assets
 
 ### 📁 Contents
 - 🎨 [Branding Overview](laboratory%202/branding/)
