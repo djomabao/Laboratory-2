@@ -17,7 +17,7 @@
 <p align="center">
   <a href="#overview">Overview</a> •
   <a href="#branding-assets">Branding Assets</a> •
-  <a href="#usage">Usage</a> •
+  <a href="#usage">Usage</a> 
 </p>
 
 ---
