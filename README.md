@@ -81,7 +81,7 @@ A branded social media graphic designed to reflect the DASH identity, focusing o
   <img 
     src="https://raw.githubusercontent.com/djomabao/Elective-Laboratories/main/laboratory%203/Social%20Media%20Branding%20Graphics/square_post.png" 
     alt="square_post" 
-    width="100%" 
+    width=500 
   />
 </p>
 
