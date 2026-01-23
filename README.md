@@ -104,7 +104,7 @@ A one-page infographic designed to visually summarize the problem of poor time m
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/djomabao/Elective-Laboratories/main/laboratory%204/Infographic%20+%20Mini%20Project%20Documentation/DASH%20infographic.pdf" 
+    src="https://raw.githubusercontent.com/djomabao/Elective-Laboratories/main/laboratory%204/Infographic%20+%20Mini%20Project%20Documentation/infographic.png" 
     alt="infographic" 
     width=600
   />
