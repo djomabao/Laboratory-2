@@ -37,6 +37,16 @@ Think of it as **infrastructure for identity**.
 ---
 
 ## 🎨 Branding Assets
+## 🧪 Laboratory 2 – Branding & Identity
+
+This laboratory focuses on brand development, visual identity, and digital assets.
+
+### 📁 Contents
+- 🎨 [Branding Overview](laboratory%202/branding/)
+- 🖼️ [Banner Assets](laboratory%202/branding/banner/)
+- 🏷️ [Logo Files](laboratory%202/branding/logo/)
+- 🎯 [Color Palette](laboratory%202/branding/palette/)
+
 ```bash
 branding/
 ├─ banner/        # GitHub & dashboard banners
