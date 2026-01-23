@@ -1,6 +1,10 @@
 <!-- ================= HERO BANNER ================= -->
 <p align="center">
-  <img src="dash-banner.png" alt="DASH Banner" width="100%">
+  <img 
+    src="https://raw.githubusercontent.com/djomabao/Elective-Laboratories/main/laboratory%202/branding/banner/DASH%20banner.png" 
+    alt="DASH Banner" 
+    width="100%" 
+  />
 </p>
 
 
