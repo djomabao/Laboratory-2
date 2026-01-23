@@ -24,8 +24,6 @@
 
 # 🧪 Overview
 
-<u>Brand Philosophy</u>
-
 DASH is driven by the mindset of continuous progress — pushing forward without hesitation and performing with maximum intent. The brand reflects resilience, discipline, and commitment, mirroring the demands of high-level athletics and personal growth.
 
 The DASH Brand Kit is a cohesive visual identity system built around performance, resilience, and momentum. Inspired by the discipline and mental strength required in elite sport, DASH represents focus, consistency, and forward motion across all platforms.
