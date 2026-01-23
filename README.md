@@ -17,7 +17,7 @@
 <p align="center">
   <a href="#overview">Overview</a> •
   <a href="#branding-assets">Branding Assets</a> •
-  <a href="#usage">Usage</a> 
+  <a href="#usage">Application</a> 
 </p>
 
 
@@ -68,3 +68,20 @@ The DASH banner establishes strong brand presence through balanced composition a
 - 🎯 [Color Palette](laboratory%202/branding/palette/)
 
 
+---
+
+# 📣 Social Media & Promotional Applications
+
+The DASH brand system is applied beyond asset creation through social media and promotional designs developed in Laboratory 3.
+
+### 📱 Social Media Post
+A branded social media graphic designed to reflect the DASH identity, focusing on motivation, discipline, and visual consistency.
+
+🔗 [View Social Media Post](../laboratory%203/square_post.png)
+
+---
+
+### 🖼️ Poster Design
+A one-page poster applying DASH branding principles such as hierarchy, contrast, and alignment to communicate information clearly.
+
+🔗 [View Poster Design](../laboratory%203/TIME%20MANAGEMENT.pdf)
