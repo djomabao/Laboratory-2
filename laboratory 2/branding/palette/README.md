@@ -1,5 +1,7 @@
 ## DASH Color Palette
 
+![DASH Color Palette](palette.png)
+
 The DASH color palette is designed to convey clarity, focus, and confidence while maintaining high contrast and readability.
 
 ### 🎨 Primary Colors
